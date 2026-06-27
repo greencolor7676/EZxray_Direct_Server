@@ -1,10 +1,9 @@
 # 🚀 EZxray Direct Server
 
-
 <div align="center">
-
+  
 **EZxray Direct Server - کاملاً خودکار**
-
+  # این اسکریپت کاملا با هوش مصنوعی ساخته شده #
 </div>
 
 
@@ -96,4 +95,6 @@ text
 #نصب آسان
 ```bash
 bash <(curl -s https://raw.githubusercontent.com/greencolor7676/EZxray_Direct_Server/main/EZxray.sh)
+
+
 
