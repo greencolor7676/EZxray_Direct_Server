@@ -92,7 +92,7 @@ text
 - **اطلاعات سیستم**: نمایش IP، موقعیت جغرافیایی، ISP و منابع سرور
 
 ---
-#نصب آسان
+#نصب آسان در سرور خارج
 ```bash
 bash <(curl -s https://raw.githubusercontent.com/greencolor7676/EZxray_Direct_Server/main/EZxray.sh)
 
