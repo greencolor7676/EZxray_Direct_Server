@@ -92,9 +92,9 @@ text
 - **اطلاعات سیستم**: نمایش IP، موقعیت جغرافیایی، ISP و منابع سرور
 
 ---
-#نصب آسان در سرور خارج
+**نکته:** ویدیو آموزشی طریقه نصب آپلود شده با اسم `Amozesh.mp4` می‌توانید دانلود کنید.
+
+**نصب آسان در سرور خارج**
 ```bash
 bash <(curl -s https://raw.githubusercontent.com/greencolor7676/EZxray_Direct_Server/main/EZxray.sh)
-
-
-
+```
